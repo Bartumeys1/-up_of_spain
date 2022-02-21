@@ -1,0 +1,15 @@
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\Home.Data.csproj.AssemblyReference.cache
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\Home.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\Home.Data.AssemblyInfoInputs.cache
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\Home.Data.AssemblyInfo.cs
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\Home.Data.csproj.CoreCompileInputs.cache
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\bin\Debug\net5.0\Home.Data.deps.json
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\bin\Debug\net5.0\Home.Data.runtimeconfig.json
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\bin\Debug\net5.0\Home.Data.runtimeconfig.dev.json
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\bin\Debug\net5.0\Home.Data.dll
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\bin\Debug\net5.0\ref\Home.Data.dll
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\bin\Debug\net5.0\Home.Data.pdb
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\Home.Data.dll
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\ref\Home.Data.dll
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\Home.Data.pdb
+D:\SHAG_Home\Frameworks\Home_Multi&Multi\Home\Home\obj\Debug\net5.0\Home.Data.genruntimeconfig.cache
